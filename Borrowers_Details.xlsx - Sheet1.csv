@@ -1,0 +1,43 @@
+Borrowers_Details,,,, ,,,
+Sl_ No ,Book_Taken ,Authors_ Name,Readers_Name,Issue_Date,Return_Date,Days_Book_Kept,Fines _Charged (Rs)
+1, The Nightingle ,Kristin Hannah ,Rithesh ,1.01.2021,20.01.2021,19, None 
+2,Malgudi Days,R.K Narayan,Arjun ,1.01.2021,7.02.2021,6,None 
+3,The Pillars of the Earth ,Ken Follet ,Disha ,1.01.2021,21.01.2021 ,20, None 
+4,Train to Pakistan ,Khushwant Singh ,Jishan ,1.01.2021,20.01.2021,19, None 
+5, Beloved ,Toni Morrison ,Ayaan , 1.01.2021,7.02.2021,38,150
+6,The Room on the roof ,Ruskin Bond, Karun , 2.01.2021,20.01.2021,18,None 
+8,Combat of Shadows ,Manohar Malgonkar,Radhika,2.01.2021,15.01.2021,13,None 
+9,The God of Small things,Arundhati Roy,Vikram ,2.01.2021,15.01.2021,13,None 
+10,The White Tiger ,Aravind Adiga,Rajneesh ,2.01.2021,21.01.2021,19, None 
+11,The Handmaid's Table ,Margaret Atwood ,Kavita ,2.01.2021,20.01.2021,18,None 
+12,Himself ,Jess kid ,Dinesh ,2.01.2021,20.01.2021,18,None 
+13,Sea of Poppies ,Amitav Ghosh,Naveen ,3.01.2021,18.01.2021,15,None 
+14, A Study in Scarlet,Arthur Conan Doyle ,Harshal ,3.01.2021,7.01.2021,4,None 
+15,The Great Indian novel,Shashi Tharoor,Ravi,3.01.2021,18.01.2021,15,None 
+16,The Daughter of Time ,Josephine Tey ,Aman ,3.01.2021,21.01.2021,18,None 
+17,The Notebook,Nicholas Sparks, Swati,18.01.2021,18.02.2021,32,140
+18,Sense and Sensibility ,Jane Austen, Vidya,4.01.2021, 22.01.2021,18,None 
+19,The Pilgrim's Progress,John Bunyan,Anshul ,4.01.2021,20.01.2021,16,None 
+20,Robinson Crusoe,Daniel Defoe,Pranav , 4.02.2021,  1.03.2021,24,100
+21,Gulliver's Travells,Jonathan Swift,Dheeraj,4.02.2021,15.03.2021,39,150
+22,Clarissa,Samuel Richardson,Raj ,4.02.2021,2.03.2021,27,100
+23,Tom Jones ,Hendry Fielding,Kishan,4.02.2021,25.02.2021,21,10
+24,The Oliver Twist ,Charles Dickens ,Priyanka ,25.01.2021,10.02.2021,16,None 
+25,Emma ,Jane Austen,Pratima,5.02.2021,25.02.2021,20,None
+26,Frankenstein ,Mary Shelly , Jibin,27.02.2021,12.03.2021,14,None
+27,Nightmare Abbey,Thomas Love ,Sooraj,12.02.2021,20.02.2021,8,None
+28,Sybil,Flora Rhehta ,Sanju ,13.02.2021,20.02.2021,7,None
+29,Jane Eyre ,Charlotte Bronte,Prashant ,18.02.2021,10.03.2021,20,None
+30,Wuthering Heights ,Emily Bronte ,Kiran ,4.03.2021,20.03.2021,16,None
+31,Vanity Fair ,William Thackeray,Pradeep ,12.03.2021,20.03.2021,8,None
+32,David Copperfield ,Charles Dickens ,Nikhil,12.03.2021,9.04.2021,28,110
+33,The Scarlet Letter ,Nathaniel Hawthorne ,Suresh,28.03.2021,2.04.2021,5,None
+34,Moby Dick,Herman Melville,Akhila,28.03.2021,10.04.2021,13,None
+35,Alice's Adventures in Wonderland ,Lewis Carroll, Soniya ,4.01.2021,29.01.2021,25,105
+36,The Moonstone ,Wilkie Collins,Angel,18.04.2021,27.04.2021,9,None
+37,Little Woman ,Louisa May Alcott,Meenakshi ,18.04.2021,23.04.2021,5,None
+38,Middlemarch ,George Eliot ,Manju,22.04.2021,28.04.2021,6,None
+39,The Way We Live Now ,Anthony Trollope ,Arun ,18.04.2021,30.04.2021,12,None
+40,Kidnapped ,Robert Louis ,Aneesh ,12.04.2021,20.04.2021,8,None
+41,Three Men in a Boat ,Jerome K Jerome ,Sidharth,16.04.2021,20.04.2021,4,None
+,, ,, , ,,
